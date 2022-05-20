@@ -13,3 +13,5 @@ else:
     if thirsty == "yes":
         print("Drink Water")
         print("Drink Colddrink")
+        
+print("End of program")
